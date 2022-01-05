@@ -28,6 +28,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
-<a href="https://https://blog.csdn.net/weixin_35154281/"><img alt="Website" src="https://img.shields.io/badge/Website-www.csdn.com-blue?style=flat-square&logo=google-chrome"></a></p><br/>
+<a href="https://blog.csdn.net/weixin_35154281/"><img alt="Website" src="https://img.shields.io/badge/Website-www.csdn.com-blue?style=flat-square&logo=google-chrome"></a></p><br/>
 <h2 align= "center"><b>I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</b></h2>
 ⭐️ From [Gavince](https://github.com/Gavince)
