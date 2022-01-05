@@ -1,4 +1,7 @@
-<h1 align= "left"><b>Hey there🙋‍♂️, I am Gavince</b></h1>
+<h1 align= "left"><b>Hey there🙋‍♂️, I am Gavince!👋</b></h1>
+
+![Visitor Count](https://profile-counter.glitch.me/Gavince/count.svg)
+
 <img width="35%" align="right" alt="Github" src="https://i.imgur.com/8MupZHY.gif" width="400px" />  
 <h2>😄&nbsp;About me</h2> 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
