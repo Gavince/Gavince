@@ -1,4 +1,4 @@
-<h1 align= "left"><b>Hey there🙋‍♂️, I am Gavince!👋</b></h1>
+<h1 align= "left"><b>Hey there🙋‍♂️, I am Gavin!👋</b></h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/Gavince/count.svg)
 
